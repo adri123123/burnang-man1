@@ -10,7 +10,7 @@ a {
 
 header {
   height: 100vh;
-  background-image: url(../img/header-bg.jpg);
+  background-image: url("../img/header-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 57px;
